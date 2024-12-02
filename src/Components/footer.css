@@ -1,0 +1,144 @@
+/* Main Footer Styles */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f8f9fa;
+  padding: 40px 60px;
+  flex-wrap: wrap;
+}
+
+.footer-section {
+  flex: 1;
+  padding: 20px;
+  min-width: 200px;
+}
+
+.footer-section h4 {
+  color: #013556;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.footer-section p {
+  color: #504949;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+  /* margin-left: 100; */
+}
+
+.footer-link {
+  padding: 5px 0;
+}
+
+.footer-link a {
+  color: #013556;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link a:hover {
+  color: #ff5a5f;
+}
+
+.footer-link a {
+  color: #013556;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link a:hover {
+  color: #ff5a5f;
+}
+
+/* Social Media Icons */
+.social-links a {
+  color: #013556;
+  margin-right: 15px;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+
+.social-links a:hover {
+  transform: scale(1.2);
+}
+
+.icons {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Footer Image */
+.footer-section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Footer Bottom Section */
+.footer2 {
+  border-top: 1px solid #6a838c;
+  text-align: right;
+  padding: 20px 60px;
+}
+
+.footer2 p {
+  margin: 0;
+  font-size: 16px;
+  color: #1f3c45;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-section {
+    margin-bottom: 20px;
+  }
+
+  .footer2 {
+    text-align: center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-section h2 {
+    font-size: 20px;
+  }
+
+  .footer-section p {
+    font-size: 14px;
+  }
+
+  .footer2 p {
+    font-size: 14px;
+  }
+}
+.up-arrow {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+
+.up-arrow:hover {
+  background-color: #0056b3;
+}

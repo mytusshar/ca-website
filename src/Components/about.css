@@ -1,0 +1,240 @@
+.image-container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.about-section {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.about-container {
+  max-width: 1200px;
+  padding: 20px;
+}
+.about-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    padding: 10px;
+  }
+
+  .about-container {
+    padding: 15px;
+  }
+
+  .heading {
+    font-size: 20px;
+  }
+
+  .about-container p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 769px) {
+  .about-section {
+    padding: 40px;
+  }
+
+  .heading {
+    font-size: 20px;
+  }
+
+  .about-container p {
+    font-size: 1.1rem;
+  }
+}
+
+/* About section1 */
+
+.about-Section1 {
+  padding: 60px 60px;
+  background-color: #d2e6f5;
+}
+.hightlight-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.hightlight-image {
+  flex: 1;
+  max-width: 50%;
+  text-align: center;
+}
+
+.hightlight-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.hightlight-label {
+  display: inline-block;
+  background-color: hsl(219, 53%, 48%);
+  color: white;
+  padding: 5px 15px;
+  border-radius: 16px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.hightlight-content {
+  flex: 1;
+  max-width: 50%;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.highlights-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 15px;
+}
+
+.highlights-list li {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+  .about-Section1 {
+    padding: 5px;
+  }
+  .hightlight-container {
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .reverse {
+    flex-direction: column;
+  }
+
+  .hightlight-content {
+    padding-left: 0;
+    padding-top: 20px;
+    max-width: 100%;
+  }
+
+  .hightlight-image {
+    max-width: 100%;
+  }
+
+  .hightlight-image img {
+    height: auto;
+  }
+}
+
+.about-vision {
+  background-color: #f9f9f9;
+  margin-bottom: 30px;
+}
+
+.center-heading {
+  text-align: center;
+  color: #002952;
+}
+
+.about-vision p {
+  font-size: 16px;
+  color: #606060;
+}
+
+/* CSS for Mission Section */
+.mission-items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 100%;
+}
+
+.mission-column {
+  width: 50%;
+}
+
+.mission-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.mission-icon {
+  font-size: 24px;
+  color: #85c1e9;
+  margin-right: 10px;
+}
+
+.mission-item h3 {
+  font-size: 18px;
+  color: #002952;
+}
+
+.mission-item p {
+  font-size: 14px;
+  color: #606060;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-container {
+    padding: 20px;
+  }
+  .mission-items {
+    flex-direction: column;
+  }
+
+  .mission-column {
+    width: 100%;
+  }
+}
+.statsList {
+  padding: 60px;
+}
+.stats-heading {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(28, 28, 115);
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.stats-heading > h1 {
+  color: white;
+  font-size: 2rem;
+  padding: 40px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .stats-section h1 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .stats-section h1 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .stats-section h1 {
+    font-size: 15px;
+  }
+}

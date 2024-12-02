@@ -1,0 +1,59 @@
+First we need to push code on git hub usinf below comments:
+src="https://cdn.pixabay.com/video/2024/09/16/231792_large.mp4"
+{echo "# h" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/PoonamUgale/h.git
+git push -u origin main}
+
+Add NPM into ths project
+Steps: npm init
+
+Most imp package is :bundler
+Bndlers : 1)webpack 2)Vite 2)parcel and meny more
+bundler is used to bundl our app so it can be shift to production.
+Insatll parcel: npm install -D parcel
+
+Q.-D means what?
+Ans:Two types of dependency the Dev dependency and Normal Dependency
+Dev dependency means required development phase
+Normal dependency used in Production
+
+Q.What is the meaning of ^ and ~ "parcel": "^2.12.0"?
+Ans: ~ upgrade the major version and ^ upgrad the monor version always install with ^.
+
+Q.what is package.json
+Ans:It's a configuration for npm it keeps the track what version of the package will be insatll into the system.
+"parcel": "^2.12.0"
+
+Q.what is package.json.
+Ans:it keeps the track of exact version that is being insatll into the system. "parcel": "2.12.0"
+
+Ignite the APP
+used parcel to iginte the app
+npx parcel index.html---create a server for us
+https:localhost:1234
+
+NPX means executing a package(parcel is execute)
+
+- Install React and React DOM
+
+* npm install react
+  Not used -D because want normal dependency
+* npm install react-dom (npm i react-dom)
+  *React Element-
+  the react element is the JSX
+  *React Componet
+  The function which are returning the JSX element is called as functional component.
+  \*Component composition
+  Means calling a different component into component.
+
+  const images = [
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivIVjRQ3bjsm3nwkXJKTIHRxpPiW2KRdeLni8iHM5nhxlbBuD",
+  "https://img-b.udemycdn.com/course/240x135/5529270_1dc8_5.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33v1BBhgNO6PYRjg7zmZYaOPfJgb8-DztgvpvqgGave-w9Ar7n5t9kr7ZEcouMS6_I5E&usqp=CAU",
+  ];
+
+idasodsa

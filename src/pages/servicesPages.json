@@ -1,0 +1,34 @@
+{
+  "taxes": [
+    {
+      "name": "Direct Taxes",
+      "description": "Our Direct Tax services include comprehensive planning and compliance for various tax obligations. We help businesses navigate complex regulations to optimize their tax positions.",
+      "image": "path/to/direct-taxes-image.jpg",
+      "path": "/services/direct-taxation"
+    },
+    {
+      "name": "Indirect Taxes",
+      "description": "Our Indirect Tax services cover Goods and Services Tax (GST) compliance, advisory, and litigation support to ensure that businesses are compliant with indirect tax regulations.",
+      "image": "path/to/indirect-taxes-image.jpg",
+      "path": "/services/indirect-taxation"
+    },
+    {
+      "name": "Statutory and Internal Auditing",
+      "description": "We provide statutory and internal auditing services to assess the accuracy of financial statements and compliance with applicable laws, enhancing your business's transparency.",
+      "image": "path/to/auditing-image.jpg",
+      "path": "/services/statutory-and-internal-auditing"
+    },
+    {
+      "name": "Limited Review",
+      "description": "Our Limited Review services offer a quick assessment of financial statements for interim periods, providing stakeholders with assurance on financial health without a full audit.",
+      "image": "path/to/limited-review-image.jpg",
+      "path": "/services/limited-review"
+    },
+    {
+      "name": "Project Finances",
+      "description": "We assist in project finance by structuring financial arrangements and advising on financial strategy, ensuring the success of your projects.",
+      "image": "path/to/project-finances-image.jpg",
+      "path": "/services/project-finances"
+    }
+  ]
+}

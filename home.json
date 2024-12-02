@@ -1,0 +1,143 @@
+{
+  "stats": [
+    { "value": "6", "label": "Decades of Experience" },
+    { "value": "35 +", "label": "Partners" },
+    { "value": "30 +", "label": "Industry Reach" },
+    { "value": "7 +", "label": "Regional Offices in India" },
+    { "value": "900 +", "label": "Employees" },
+    { "value": "15 +", "label": "Countries Worked in" }
+  ],
+  "image": "https://vantage365.com/wp-content/uploads/2024/06/Microsoft-365-Defender.webp",
+  "paragraph": "Nikhil Warankar & Co is an Accounting, Auditing & Consulting firm with a well-established network of financial experts across India. Our motto 'Step ahead, Always', reflects our value-added approach in delivering sound financial solutions while we partner with you in your journey of growth. With our extensive experience of 65+ years, we deliver a wide range of professional services in the areas of Assurance, Accounting & Advisory to reputed & listed companies from various industries across the globe.",
+  "heading": "Delivering Quality Assurance and Financial Solutions since 1956",
+
+  "header": {
+    "title": "Why Nikhil Warankar & Co?",
+    "paragraph": "Nikhil Warankar & Co are committed to establishing and nurturing long-term relationships that illustrate our experience and aptitude of years to assist our clients to accomplish real attainment.",
+    "buttonText": "Learn More",
+    "buttonLink": "#learn-more"
+  },
+
+  "sections": [
+    {
+      "title": "Tailor-Made Approach",
+      "description": "Our accredited partners and dedicated staff bring professionalism and specialization to cater to each client’s unique needs. With a focus on personalized service, we surpass expectations by infusing integrity and delivering customized solutions.",
+      "icon": "AiOutlineSolution"
+    },
+    {
+      "title": "Ethical Practices",
+      "description": "Our firm with an unwavering commitment to ethics, upholding high values in every aspect of our work. We consistently exceed client expectations while maintaining integrity as our guiding principle.",
+      "icon": "AiOutlineSafety"
+    },
+    {
+      "title": "Partnering Growth",
+      "description": "Nikhil Warankar & Co, spanning across territories, approaches every endeavor with the same standard of enthusiasm, integrity, and ethical practices. We forge partnerships that foster growth, leveraging expertise with a global perspective.",
+      "icon": "AiOutlineTeam"
+    },
+    {
+      "title": "Robust Frameworks",
+      "description": "Professionalism is at the core of Kirtane & Pandit’s promise, ensuring strong practices in all our professional engagements. Our sincere team works tirelessly for the betterment of our clients.",
+      "icon": "AiFillSetting"
+    },
+    {
+      "title": "Global Perspective",
+      "description": "With Nikhil Warankar & Co, clients benefit from our global perspective and exposure to diverse industries. We bring new experiences and insights, working within timelines to provide the best results.",
+      "icon": "AiOutlineGlobal"
+    }
+  ],
+
+  "services": [
+    {
+      "title": "Direct Taxes",
+      "description": "Our Direct Tax services include comprehensive planning and compliance for various tax obligations. We help businesses navigate complex regulations to optimize their tax positions.",
+      "image": "https://adca.in/images/services/2s.jpg"
+    },
+    {
+      "title": "Indirect Taxes",
+      "description": "Our Indirect Tax services cover Goods and Services Tax (GST) compliance, advisory, and litigation support to ensure that businesses are compliant with indirect tax regulations.",
+      "image": "https://www.papaelias.com/images/catheaders/tax.jpg"
+    },
+    {
+      "title": "Statutory and Internal Auditing",
+      "description": "We provide statutory and internal auditing services to assess the accuracy of financial statements and compliance with applicable laws, enhancing your business's transparency.",
+      "image": "https://s7d9.scene7.com/is/image/roberthalfintl/Internal-Auditor-FA-09-13-2017:Large-1x?fmt=webp-alpha"
+    },
+    {
+      "title": "Limited Review",
+      "description": "Our Limited Review services offer a quick assessment of financial statements for interim periods, providing stakeholders with assurance on financial health without a full audit.",
+      "image": "https://charteredaccountantsworldwide.com/wp-content/uploads/2024/09/Accountancy-1024x576.jpg"
+    },
+    {
+      "title": "Project Finances",
+      "description": "We assist in project finance by structuring financial arrangements and advising on financial strategy, ensuring the success of your projects.",
+      "image": "https://projectfinance101.wordpress.com/wp-content/uploads/2020/05/project-finance-and-disbursement-.jpg"
+    },
+    {
+      "title": "Auditing & Assurance Services",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTWrnXM-sHYztTkye4PBNw4Jg2OkJRZnp8CYuk-bK17kahCOLjoa2M50org&s",
+      "description": "We provide various Auditing & Assurance Services to Companies and Firms.",
+      "largeParagraph": "Our Auditing & Assurance Services include verification of evidences, vouchers, and certifications. We help companies maintain compliance through detailed audits and documentation."
+    },
+    {
+      "title": "Outsourcing & Payroll Processing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT365cxuEkkJ2-SKhFroRVvnnIrTXLVuzKPww&s",
+      "description": "Outsourcing helps companies to focus on core activities and achieve high compliance.",
+      "largeParagraph": "We provide a comprehensive range of outsourcing services that include accounting, payroll processing, and QuickBooks management to help businesses maintain operational efficiency."
+    },
+    {
+      "title": "Income Tax Advisory",
+      "image": "https://www.informalnewz.com/wp-content/uploads/2023/09/Tax-Saving-Tips.jpg",
+      "description": "We provide income tax advice to companies and non-companies clients.",
+      "largeParagraph": "Our Income Tax Advisory service helps clients optimize their tax strategies. We provide expert advice on income tax compliance for businesses as well as individuals."
+    },
+    {
+      "title": "Virtual CFO Services",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReiLD6VYSk9oiAxx5khLrukKPw4ka63ynspQ&s",
+      "description": "Fast-growing businesses need dynamic support in financial decisions.",
+      "largeParagraph": "Our Virtual CFO Services provide expert financial advice and oversight to businesses that need CFO-level guidance without hiring full-time CFO staff."
+    },
+    {
+      "title": "Indian GAAPs, IND-AS & IFRS Advisory Services",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqmmhYYUH-9m3zA9PEYeOsLSLU-XGufh4onw&s",
+      "description": "We assist businesses in implementing IFRS and Indian GAAPs.",
+      "largeParagraph": "Our services help companies comply with the complex landscape of Indian GAAPs, IND-AS, and IFRS. We provide expert advisory for financial reporting and corporate governance."
+    },
+    {
+      "title": "Initial Public Offering (IPO) Advisory & Solutions Services",
+      "image": "https://www.invest19.com/blog/wp-content/uploads/2020/06/Things-to-Consider-Before-Investing-in-a-n-IPO-800x442.jpg",
+      "description": "We provide advisory for companies aiming for IPO on NSE & BSE.",
+      "largeParagraph": "Our IPO advisory services help businesses prepare for listing on major stock exchanges, providing comprehensive guidance on regulatory requirements and documentation."
+    }
+  ],
+
+  "footer": {
+    "mainHeader": "Nikhil Warankar & Co",
+    "subHeader": "Chartered Accountants",
+    "description": "NIKHIL WARANKAR & CO | Chartered Accountant's,Office No.A-3(1), 2nd Floor, Sai Chhaya Apartment, Above IDBI Bank, Apte Road, Deccan Gymkhana, Pune-04",
+    "imageSrc": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoGssPCpuIeQO8TM2LYJllkjZMcXcioEYnITiwDCsDQjHQF3v0",
+    "copyright": "© 2024. Nikhil Warankar & Co Chartered Accountants | All rights reserved. Design & Developed by Bytemap Software Technologies."
+  },
+
+  "section2": [
+    {
+      "ico": "IoMdHand",
+      "titl": "We offer support services",
+      "descriptio": "that can free up management to concentrate on important aspects of their business."
+    },
+    {
+      "ico": "IoIosClipboard",
+      "titl": "We have proven experience",
+      "descriptio": "of managing end to end finance and accounts processes from initial invoicing till payment."
+    },
+    {
+      "ico": "FaRegLightbulb",
+      "titl": "We turn numbers into actionable business intelligence",
+      "descriptio": "- building a better picture offering better finance."
+    },
+    {
+      "ico": "FaRegLightbulb",
+      "titl": "We explore ideas and help you",
+      "descriptio": "plan for a more profitable future wherever you are in your business lifecycle."
+    }
+  ]
+}
